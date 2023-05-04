@@ -1,0 +1,16 @@
+/*home*/
+body{
+	background: #cacbd5;
+}
+.content{
+  	justify-content: center;
+  	margin-top: -20%;
+  	height: 100vh;
+  	background-color: #ffffff;
+}
+.content p{
+	text-align: center;
+	color: #fff;
+	padding: 55px;
+	font-size: 25px;
+}
